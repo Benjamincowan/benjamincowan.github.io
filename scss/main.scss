@@ -43,6 +43,18 @@
   height: 250px;
 }
 
+.marketing .col-lg-4 {
+  margin-bottom: 1.5rem;
+  text-align: center;
+}
+.marketing h2 {
+  font-weight: 400;
+}
+.marketing .col-lg-4 p {
+  margin-right: .75rem;
+  margin-left: .75rem;
+}
+
 // Responsive typography sizes using Bootstrap mixins for the media querries
 html {
   @include media-breakpoint-up(sm) { font-size: 16px; }
