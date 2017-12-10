@@ -15,6 +15,10 @@
   color: white;
 }
 
+.banner {
+  width: 100%;
+}
+
 // Responsive typography sizes using Bootstrap mixins for the media querries
 html {
   @include media-breakpoint-up(sm) { font-size: 16px; }
