@@ -5582,6 +5582,11 @@ a.text-dark:focus, a.text-dark:hover {
   background-color: #01172F;
   color: white; }
 
+.profilepic {
+  background: url(https://i.imgur.com//I4I0NfN.jpg) 50% 50% no-repeat;
+  width: 250px;
+  height: 250px; }
+
 html {
   font-size: 14px; }
   @media (min-width: 576px) {
