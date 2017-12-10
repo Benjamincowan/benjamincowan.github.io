@@ -5561,7 +5561,8 @@ a.text-dark:focus, a.text-dark:hover {
   height: 100px;
   font-family: otra;
   font-size: 80%;
-  background-color: #01172F; }
+  background-color: red;
+  color: red; }
 
 html {
   font-size: 14px; }
