@@ -5569,7 +5569,7 @@ a.text-dark:focus, a.text-dark:hover {
   overflow: hidden; }
 
 .bannerpic {
-  width: auto; }
+  width: 100%; }
 
 html {
   font-size: 14px; }
