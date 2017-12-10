@@ -101,6 +101,10 @@ body {
   font-size: 85%;
 }
 
+.album .container {
+  max-width: 40rem;
+}
+
 // Responsive typography sizes using Bootstrap mixins for the media querries
 html {
   @include media-breakpoint-up(sm) { font-size: 16px; }

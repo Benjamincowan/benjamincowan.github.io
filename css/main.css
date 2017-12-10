@@ -5637,6 +5637,9 @@ body {
 .card-text {
   font-size: 85%; }
 
+.album .container {
+  max-width: 40rem; }
+
 html {
   font-size: 14px; }
   @media (min-width: 576px) {
