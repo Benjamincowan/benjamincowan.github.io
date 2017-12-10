@@ -5565,9 +5565,11 @@ a.text-dark:focus, a.text-dark:hover {
   color: white; }
 
 .banner {
-  width: 100%;
   height: 400px;
   overflow: hidden; }
+
+.bannerpic {
+  width: auto; }
 
 html {
   font-size: 14px; }
