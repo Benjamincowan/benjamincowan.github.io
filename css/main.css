@@ -5556,6 +5556,9 @@ a.text-dark:focus, a.text-dark:hover {
   font-family: "otra";
   src: url("../fonts/otra.ttf"); }
 
+body {
+  background-color: #feffff; }
+
 .tbar {
   width: 100%;
   height: 100px;
@@ -5581,11 +5584,6 @@ a.text-dark:focus, a.text-dark:hover {
   font-size: 60px;
   background-color: #01172F;
   color: white; }
-
-.profilepic {
-  background: url(https://i.imgur.com//I4I0NfN.jpg) 50% 50% no-repeat;
-  width: 250px;
-  height: 250px; }
 
 .marketing .col-lg-4 {
   margin-bottom: 1.5rem;
