@@ -14,9 +14,6 @@
   background-color: $primary;
 }
 
-.tbar {}
-
-
 // Responsive typography sizes using Bootstrap mixins for the media querries
 html {
   @include media-breakpoint-up(sm) { font-size: 16px; }
