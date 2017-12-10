@@ -77,32 +77,35 @@ body {
 }
 
 
-//album
-.album {
-  min-height: 50rem; /* Can be removed; just added for demo purposes */
-  padding-top: 3rem;
-  padding-bottom: 3rem;
-  background-color: #f7f7f7;
+
+/***************** START OF GALLERY CSS *******/
+
+.gallery {
+    display: flex;
+    max-width: 1500px;
+    margin: 5px auto;
+    padding: 0 10px;
+    flex-wrap: wrap;
+    align-items: center;
+    z-index: 2;
 }
 
-.card {
-  float: left;
-  width: 33.333%;
-  padding: .75rem;
-  margin-bottom: 2rem;
-  border: 0;
+.image {
+    width: 350px;
+    flex-grow: 1;
+    flex-shrink: 1;
+    margin: 10px;
+    box-shadow: 0 3px 10px 2px black;
+    transition: 0.3s;
+
 }
 
-.card > img {
-  margin-bottom: .75rem;
+.image:hover {
+    transform: scale(1.02);
 }
 
-.card-text {
-  font-size: 85%;
-}
-
-.album .container {
-  max-width: 40rem;
+img {
+    border-style: none;
 }
 
 // Responsive typography sizes using Bootstrap mixins for the media querries
