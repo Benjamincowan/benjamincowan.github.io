@@ -5565,7 +5565,9 @@ a.text-dark:focus, a.text-dark:hover {
   color: white; }
 
 .banner {
-  width: 100%; }
+  width: 100%;
+  height: 400px;
+  overflow: hidden; }
 
 html {
   font-size: 14px; }
@@ -5578,9 +5580,6 @@ html {
   @media (min-width: 992px) {
     html {
       font-size: 28px; } }
-
-body {
-  padding: 2rem 0; }
 
 .header-subtle {
   font-size: 1.2rem;
