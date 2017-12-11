@@ -5590,18 +5590,9 @@ body {
   width: 100%;
   height: 100px;
   font-family: otra;
-  font-size: 48px;
+  font-size: 60px;
   background-color: #01172F;
   color: white; }
-  @media (min-width: 576px) {
-    .abouth1 {
-      font-size: 52px; } }
-  @media (min-width: 768px) {
-    .abouth1 {
-      font-size: 56px; } }
-  @media (min-width: 992px) {
-    .abouth1 {
-      font-size: 60px; } }
 
 .iconcards .col-lg-4 {
   margin-bottom: 1.5rem;
@@ -5628,7 +5619,7 @@ body {
   position: absolute;
   top: 0;
   left: 0;
-  min-width: 100%;
+  max-width: 100%;
   height: 32rem; }
 
 .carousel-caption h1 {
