@@ -5562,26 +5562,13 @@ body {
 .tbar {
   width: 100%;
   height: 100px;
-  font-family: otra;
-  font-size: 80px;
-  background-color: #01172F;
-  color: white; }
-
-.tbar h1 {
-  font-family: otra; }
+  background-color: #01172F; }
 
 .namelogo {
   height: 85%;
   width: auto;
   padding-bottom: 10px;
   margin-top: -12px; }
-
-.banner {
-  height: 520px;
-  overflow: hidden; }
-
-.bannerpic {
-  width: 100%; }
 
 .aboutme {
   width: 100%; }
@@ -5595,19 +5582,19 @@ body {
   color: white; }
 
 .iconcards .col-lg-4 {
-  margin-bottom: 1.5rem;
+  margin-bottom: 24px;
   text-align: center; }
 
 .iconcards h2 {
   font-weight: 400; }
 
 .iconcards .col-lg-4 p {
-  margin-right: .75rem;
-  margin-left: .75rem; }
+  margin-right: 12px;
+  margin-left: 12px; }
 
 /* Since positioning the image, we need to help out the caption */
 .carousel-caption {
-  bottom: 3rem;
+  bottom: 48px;
   z-index: 10; }
 
 /* Declare heights because of positioning of img element */
