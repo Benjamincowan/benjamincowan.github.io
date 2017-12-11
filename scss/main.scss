@@ -131,12 +131,14 @@ h4 {
 }
 
 .social-icons li {
-  display: block;
+  display: inline;
   color: white;
+  list-style: none;
 }
 
 .social-icon {
   text-decoration: none;
+  list-style: none;
   color: white;
   font-size: 40px;
 }
