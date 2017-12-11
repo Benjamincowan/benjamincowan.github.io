@@ -40,21 +40,21 @@ body {
 
 // Icon cards in my skills section
 .iconcards .col-lg-4 {
-  margin-bottom: 24px;
+  margin-bottom: 1.5rem;
   text-align: center;
 }
 .iconcards h2 {
   font-weight: 400;
 }
 .iconcards .col-lg-4 p {
-  margin-right: 12px;
-  margin-left: 12px;
+  margin-right: .75rem;
+  margin-left: .75rem;
 }
 
 
 /* Since positioning the image, we need to help out the caption */
 .carousel-caption {
-  bottom: 48px;
+  bottom: 3rem;
   z-index: 10;
 }
 
