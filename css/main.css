@@ -5572,7 +5572,8 @@ body {
 
 .namelogo {
   height: 85%;
-  width: auto; }
+  width: auto;
+  padding-bottom: 10px; }
 
 .banner {
   height: 520px;
