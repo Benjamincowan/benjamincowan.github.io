@@ -5657,7 +5657,9 @@ h4 {
   text-decoration: none; }
 
 .social-icons li {
-  display: inline; }
+  display: inline;
+  margin: 0 auto;
+  color: white; }
 
 footer {
   height: 70px;
