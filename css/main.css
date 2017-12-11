@@ -5647,11 +5647,17 @@ img {
 .social {
   background-color: #01172F; }
 
+h4 {
+  color: white; }
+
 .social-icons {
   display: inline-block;
   width: 100%;
   list-style: none;
   text-decoration: none; }
+
+.social-icons li {
+  display: inline; }
 
 footer {
   height: 70px;

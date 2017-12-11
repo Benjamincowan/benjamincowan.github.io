@@ -119,11 +119,19 @@ img {
   background-color: $primary;
 }
 
+h4 {
+  color: white;
+}
+
 .social-icons {
   display: inline-block;
   width: 100%;
   list-style: none;
   text-decoration: none;
+}
+
+.social-icons li {
+  display: inline;
 }
 
 
