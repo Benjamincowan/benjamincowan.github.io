@@ -132,13 +132,16 @@ h4 {
 
 .social-icons li {
   display: inline;
-  margin: 0 auto;
   color: white;
 }
 
 .social-icon {
   text-decoration: none;
   color: white;
+}
+
+.social-link:hover {
+  color: $secondary;
 }
 
 
