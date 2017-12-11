@@ -5554,7 +5554,7 @@ a.text-dark:focus, a.text-dark:hover {
 
 @font-face {
   font-family: "otra";
-  src: url("../fonts/otra.ttf"); }
+  src: url("../../fonts/otra.ttf"); }
 
 body {
   background-color: #feffff; }
