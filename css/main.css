@@ -5568,7 +5568,7 @@ body {
   height: 85%;
   width: auto;
   padding-bottom: 10px;
-  margin-top: 20px; }
+  margin-top: 18px; }
 
 .aboutme {
   width: 100%; }
@@ -5592,12 +5592,10 @@ body {
   margin-right: .75rem;
   margin-left: .75rem; }
 
-/* Since positioning the image, we need to help out the caption */
 .carousel-caption {
   bottom: 3rem;
   z-index: 10; }
 
-/* Declare heights because of positioning of img element */
 .carousel-item {
   height: 32rem;
   background-color: #01172F; }
@@ -5612,7 +5610,6 @@ body {
 .carousel-caption h1 {
   text-shadow: 1px 1px 2px black; }
 
-/***************** START OF GALLERY CSS *******/
 .gallery {
   display: flex;
   max-width: 100%;

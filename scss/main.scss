@@ -21,7 +21,7 @@ body {
   height: 85%;
   width: auto;
   padding-bottom: 10px;
-  margin-top: 20px;
+  margin-top: 18px;
 }
 
 // My Skills section
@@ -51,18 +51,16 @@ body {
   margin-left: .75rem;
 }
 
-
-/* Since positioning the image, we need to help out the caption */
 .carousel-caption {
   bottom: 3rem;
   z-index: 10;
 }
 
-/* Declare heights because of positioning of img element */
 .carousel-item {
   height: 32rem;
   background-color: $primary;
 }
+
 .carousel-item > img {
   position: absolute;
   top: 0;
@@ -75,10 +73,7 @@ body {
   text-shadow: 1px 1px 2px black;
 }
 
-
-
-/***************** START OF GALLERY CSS *******/
-
+// Gallery
 .gallery {
     display: flex;
     max-width: 100%;
@@ -97,7 +92,6 @@ body {
     margin: 10px;
     box-shadow: 0 3px 10px 2px black;
     transition: 0.3s;
-
 }
 
 .image:hover {
@@ -108,6 +102,7 @@ img {
     border-style: none;
 }
 
+// footer and social media
 .social {
   background-color: $primary;
 }
@@ -150,8 +145,6 @@ a:hover {
   text-decoration: none;
   color: $secondary;
 }
-
-
 
 footer {
     height: 70px;
