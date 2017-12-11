@@ -46,10 +46,14 @@ body {
 .abouth1 {
   width: 100%;
   height: 100px;
-  font-family: arial;
+  font-family: otra;
   font-size: 60px;
   background-color: $primary;
   color: white;
+}
+
+.abouth1 p {
+  color: $secondary;
 }
 
 

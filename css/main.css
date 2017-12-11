@@ -5589,10 +5589,13 @@ body {
 .abouth1 {
   width: 100%;
   height: 100px;
-  font-family: arial;
+  font-family: otra;
   font-size: 60px;
   background-color: #01172F;
   color: white; }
+
+.abouth1 p {
+  color: #DD781D; }
 
 .iconcards .col-lg-4 {
   margin-bottom: 1.5rem;
