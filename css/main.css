@@ -5647,6 +5647,11 @@ body {
 img {
   border-style: none; }
 
+footer {
+  height: 70px;
+  background: #01172F;
+  color: white; }
+
 html {
   font-size: 14px; }
   @media (min-width: 576px) {

@@ -117,6 +117,13 @@ img {
     border-style: none;
 }
 
+footer {
+    height: 70px;
+    background: $primary;
+    color: white;
+}
+
+
 // Responsive typography sizes using Bootstrap mixins for the media querries
 html {
   @include media-breakpoint-up(sm) { font-size: 16px; }
