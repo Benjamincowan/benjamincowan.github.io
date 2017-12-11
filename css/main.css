@@ -5657,7 +5657,7 @@ h4 {
   text-decoration: none; }
 
 .social-icons li {
-  display: inline;
+  display: block;
   color: white; }
 
 .social-icon {
