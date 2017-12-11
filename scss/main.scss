@@ -124,7 +124,9 @@ h4 {
 }
 
 .social-icons {
-  width: 500px;
+  display: inline-block;
+  width: 90%;
+  margin: 0 auto;
   list-style: none;
   text-decoration: none;
 }
