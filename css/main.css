@@ -5573,7 +5573,8 @@ body {
 .namelogo {
   height: 85%;
   width: auto;
-  padding-bottom: 10px; }
+  padding-bottom: 10px;
+  margin-top: -6px; }
 
 .banner {
   height: 520px;
