@@ -5665,6 +5665,11 @@ h4 {
   color: white; }
 
 .social-link:hover {
+  text-decoration: none;
+  color: #DD781D; }
+
+a:hover {
+  text-decoration: none;
   color: #DD781D; }
 
 footer {

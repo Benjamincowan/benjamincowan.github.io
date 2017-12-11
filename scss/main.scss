@@ -141,6 +141,12 @@ h4 {
 }
 
 .social-link:hover {
+  text-decoration: none;
+  color: $secondary;
+}
+
+a:hover {
+  text-decoration: none;
   color: $secondary;
 }
 
