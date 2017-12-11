@@ -5571,7 +5571,8 @@ body {
   font-family: otra; }
 
 .namelogo {
-  height: 92%; }
+  height: 92%;
+  width: auto; }
 
 .banner {
   height: 520px;
