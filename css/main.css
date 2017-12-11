@@ -5636,8 +5636,7 @@ body {
   transition: 0.3s; }
 
 .image:hover {
-  transform: scale(1.02);
-  box-shadow: 0 3px 10px 2px #DD781D; }
+  transform: scale(1.02); }
 
 img {
   border-style: none; }
