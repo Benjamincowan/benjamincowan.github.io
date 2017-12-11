@@ -5662,7 +5662,8 @@ h4 {
 
 .social-icon {
   text-decoration: none;
-  color: white; }
+  color: white;
+  font-size: 40px; }
 
 .social-link:hover {
   text-decoration: none;
