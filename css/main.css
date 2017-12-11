@@ -5644,6 +5644,14 @@ body {
 img {
   border-style: none; }
 
+.social {
+  background-color: #01172F; }
+
+.social-icons {
+  display: inline-block;
+  list-style: none;
+  text-decoration: none; }
+
 footer {
   height: 70px;
   background: #01172F;

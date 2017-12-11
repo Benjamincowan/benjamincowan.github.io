@@ -115,6 +115,18 @@ img {
     border-style: none;
 }
 
+.social {
+  background-color: $primary;
+}
+
+.social-icons {
+  display: inline-block;
+  list-style: none;
+  text-decoration: none;
+}
+
+
+
 footer {
     height: 70px;
     background: $primary;
